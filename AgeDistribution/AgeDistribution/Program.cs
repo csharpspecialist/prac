@@ -40,7 +40,7 @@ namespace AgeDistribution
             }
             else if (age > 19 && age <= 22)
             {
-                Console.WriteLine("College Years");
+                Console.WriteLine("College Years..Don't be too foolish!!");
             }
             else if (age > 23 && age <= 65)
             {
@@ -48,11 +48,11 @@ namespace AgeDistribution
             }
             else if (age > 66 && age <= 100)
             {
-                Console.WriteLine("The Golden Years");
+                Console.WriteLine("The Golden Years..Drink some Geritol and read the Newspaper!!");
             }
             else 
             {
-                Console.WriteLine("This program is for humans");
+                Console.WriteLine("Sorry...This program is for humans");
             }
 
             Console.ReadKey();
