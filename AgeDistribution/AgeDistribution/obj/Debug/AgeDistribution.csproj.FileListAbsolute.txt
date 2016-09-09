@@ -1,0 +1,6 @@
+D:\Lando\AgeDistribution\AgeDistribution\bin\Debug\AgeDistribution.exe.config
+D:\Lando\AgeDistribution\AgeDistribution\bin\Debug\AgeDistribution.exe
+D:\Lando\AgeDistribution\AgeDistribution\bin\Debug\AgeDistribution.pdb
+D:\Lando\AgeDistribution\AgeDistribution\obj\Debug\AgeDistribution.csprojResolveAssemblyReference.cache
+D:\Lando\AgeDistribution\AgeDistribution\obj\Debug\AgeDistribution.exe
+D:\Lando\AgeDistribution\AgeDistribution\obj\Debug\AgeDistribution.pdb
