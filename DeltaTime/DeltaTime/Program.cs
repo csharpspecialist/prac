@@ -20,18 +20,32 @@ namespace DeltaTime
                 }
               
             }
-          //  Console.ReadKey();
+            Console.ReadKey();
 
-            for (int k = 0; k < 100; k++)
+            //for (int k = 0; k < 100; k++)
+            //{
+
+            //    if (isOdd(k))
+            //    {
+            //        Console.WriteLine(k);
+            //    }
+            //}
+
+
+            for (int k = 0; k <= 100; k++)
             {
-              
-                if (isOdd(k))
+                if (IsOdd(k))
                 {
                     Console.WriteLine(k);
                 }
+
             }
+            Console.ReadKey();
+        }
 
-
+        public static bool IsOdd(int start)
+        {
+            return start % 2 != 0;
         }
 
         public static bool IsEven(int value)
@@ -39,10 +53,7 @@ namespace DeltaTime
             return value % 2 == 0;
         }
 
-        public static bool IsOdd(int start)
-        {
-            return start % 2 != 0;
-        }
+   
 
 
 
