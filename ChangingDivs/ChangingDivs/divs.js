@@ -78,7 +78,7 @@ $(document).ready(function() {
 
     $("#dayButton, h2").click(function () {
         $(this).css("background-color", "#FF7F50");
-    });//above in line 64...changes the mult id tags to sapphire blue
+    });//This code does not work!!!!.  adding the h2 tag makes it not work!!!!
 
     $("#nightButton, h2").click(function () {
         $(this).css("background-color", "white");
