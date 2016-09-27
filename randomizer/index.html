@@ -1,0 +1,68 @@
+<!doctype html>
+
+<html>
+<head>
+
+
+<title>
+Dude WE R Here!!!!
+</title>
+</head>
+<script type="text/javascript">
+
+
+
+function work() {
+
+var responses = [
+"Your talking to me",
+"No way Hose",
+"Problem Now",
+"I Must break you",
+"You drew first blood",
+"Warriors...Come Out And Plaaaay",
+"Adrian!!!!",
+"You Are a Maroon",
+"Of course I killed people...but they were all bad",
+"I feel the need....the need for SPEED!!",
+"You can't handle the truth",
+"Go ahead...make my day",
+"Hasta La Vista...Baby!!",
+"I see dead people",
+"I'm the ghost with the most babe!!",
+"I must break you!!",
+"Adrian!!!!",
+"Remember when I Promised I would kill you last...I LIED!!!!",
+"I eat Green Berets for Breakfast!!!",
+"Get to the chopper" ]
+
+var max = responses.length;
+
+var random = Math.floor(Math.random() * max);
+
+var response = document.getElementById("phrase");
+response.innerHTML = responses[random];
+};
+
+    </script>
+
+<body>
+
+
+<div id = "phrase" font-size = "20px">
+ 
+
+ <h2>  A spot for responses      </h2> 
+</div>
+
+<button id="btn">
+Get a Random Phrase
+</button>
+
+
+<button id="speak" onclick="work();">
+Randomizer
+</button>
+
+</body>
+</html>
