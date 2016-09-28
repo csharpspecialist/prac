@@ -1,0 +1,56 @@
+
+.blinker {
+  animation: blinker 1s linear infinite;
+  font-weight: bold;  
+  font-size: 50px; 
+  color:green;}
+
+@keyframes blinker {
+  50% { opacity: 0.0;  }   }
+  ---------------------------------------
+
+
+a:link  { color: #660099;  }
+
+a:visited  { color:green; }
+a:hover  {color:black; font-weight: bold; font-size: 22px;}
+
+a:active{  text-decoration: none; }
+---------------------------------------------
+    .hot {		font-weight: bold;color: red;
+    font-size: 30px;
+	 }
+    
+    
+
+#nice { font-family: times, serif; font-style: italic;
+   font-weight: bold; font-size:16pt }
+
+.clear { color:#FA5F06; font-size: 30px; }
+
+.hero { color:#009999; font-size: 30px; }
+
+
+#name { color: #346EE2; font-size: 30px; }
+
+#big{ font-size: 24px; }
+
+.wish {font-weight: bold;color: red;
+    font-size: 30px;  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
