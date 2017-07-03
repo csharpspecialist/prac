@@ -26,12 +26,12 @@ a:active{  text-decoration: none; }
 #nice { font-family: times, serif; font-style: italic;
    font-weight: bold; font-size:16pt }
 
-.clear { color:#FA5F06; font-size: 30px; }
+.clear { color:black; font-size: 30px; }
 
 .hero { color:#009999; font-size: 30px; }
 
 
-#name { color: #346EE2; font-size: 30px; }
+#name { color: #edbc68; font-size: 40px; }
 
 #big{ font-size: 24px; }
 
