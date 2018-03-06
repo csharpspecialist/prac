@@ -19,6 +19,13 @@
     "make" : "Fusion",
     "model": "Base",
     "color" : "Silver",
-    "descripton" : "Straight Blah"    
+    "descripton" : "Straight Blah"
   },
+  {
+    "year": "2016",
+    "make" : "Fusion",
+    "model": "Titanium",
+    "color" : "Flash Red",
+    "descripton" : "Blurry"
+  }
 ]

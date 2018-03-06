@@ -20,5 +20,14 @@
     "model": "Excavator",
     "color" : "Bold Blue",
     "descripton" : "Big Dog"
-  }  
+  },
+
+  {
+    "year": "2016",
+    "make" : "Durango",
+    "model": "SLT",
+    "color" : "Metal Flake White",
+    "descripton" : "Elegant"
+  }
+
 ]
