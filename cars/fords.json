@@ -1,0 +1,24 @@
+[
+  {
+    "year": "2015",
+    "make" : "Fusion",
+    "model": "SE",
+    "color" : "Spider Red",
+    "descripton" : "Exciting"
+  },
+  {
+    "year": "2012",
+    "make" : "Fusion",
+    "model": "Platinum",
+    "color" : "Lightening Purple",
+    "descripton" : "Breath Taking"
+  },
+
+  {
+    "year": "2017",
+    "make" : "Fusion",
+    "model": "Base",
+    "color" : "Silver",
+    "descripton" : "Straight Blah"    
+  },
+]
