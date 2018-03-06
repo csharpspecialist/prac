@@ -1,0 +1,24 @@
+[
+  {
+    "year": "2015",
+    "make" : "Dart",
+    "model": "Limited",
+    "color" : "Brilliant Gold",
+    "descripton" : "Dazzling"
+  },
+  {
+    "year": "2014",
+    "make" : "Journey",
+    "model": "Sport",
+    "color" : "Pitch Black",
+    "descripton" : "Midnight Dark"
+  },
+
+  {
+    "year": "2014",
+    "make" : "Ram",
+    "model": "Excavator",
+    "color" : "Bold Blue",
+    "descripton" : "Big Dog"    
+  },
+]
